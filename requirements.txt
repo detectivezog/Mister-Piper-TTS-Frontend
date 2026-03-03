@@ -1,0 +1,4 @@
+piper-tts
+pygame
+customtkinter
+sounddevice
